@@ -1,0 +1,14 @@
+[
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Users\\\\ferna\\\\Desktop\\\\projects\\\\vue\\\\movies-store\\\\pages\\\\product.vue",
+    "chunkName": "pages/product"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ferna\\\\Desktop\\\\projects\\\\vue\\\\movies-store\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
